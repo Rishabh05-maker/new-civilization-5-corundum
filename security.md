@@ -190,7 +190,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Sid Meier's Civilization V · Updated 2026-11-14 · Shared under the MIT License*
+*Sid Meier's Civilization V · Updated 2026-11-15 · Shared under the MIT License*
 
 
-Updated 2026-11-14.
+Updated 2026-11-15.
